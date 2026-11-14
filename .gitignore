@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Competition datasets
+data/raw/
+data/cleaned/
+
+# Dataset file types
+*.xlsx
+*.xls
+*.csv
+*.parquet
+
+# Generated outputs
+outputs/
+
+# Temporary files
+~$*
+Thumbs.db
+.DS_Store
+
+# Power BI temp
+*.tmp
