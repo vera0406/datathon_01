@@ -22,6 +22,9 @@ data/cleaned/
 # Generated outputs
 outputs/
 
+# Local versioned analytical releases (regenerate; do not publish competition evidence)
+dashboard/data/
+
 # Temporary files
 ~$*
 Thumbs.db
