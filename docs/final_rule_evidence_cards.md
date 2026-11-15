@@ -309,3 +309,4 @@ All applications are proposed monitoring/QA/benchmarking uses, not demonstrated 
 | SOURCE_CHART | outputs\charts\final_evidence\F14_evidence.png |
 | DASHBOARD_PAGE | 5 |
 | CAVEAT | Associational; linear/additive conditional model; pooled rare currency group; matched support differs; no external validation. CI crossing zero is insufficient evidence, not proof of zero effect. |
+
